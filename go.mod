@@ -1,4 +1,4 @@
-module my.domain/gigo
+module gigo.reactive-tech.io/gigo
 
 go 1.16
 
