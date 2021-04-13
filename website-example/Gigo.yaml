@@ -1,0 +1,5 @@
+sourceDir: /home/alex/source/gigo/website-example
+outputDir: /var/www/html
+patternFilesToParse: '*.html'
+patternFilesToExclude: "gigo"
+patternDirsToExclude: ".idea toto"
