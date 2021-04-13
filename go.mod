@@ -1,4 +1,4 @@
-module gigo.reactive-tech.io/gigo
+module gigo.reactive-tech.io
 
 go 1.16
 
