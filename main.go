@@ -19,7 +19,7 @@ limitations under the License.
 package main
 
 import (
-	"gigo.reactive-tech.io/parser"
+	"github.com/reactive-tech/gigo/parser"
 	"os"
 )
 
