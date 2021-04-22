@@ -1,6 +1,7 @@
 
 [Gigo](https://gigo.reactive-tech.io/) is a static website generator written in Go allowing web developers to write 
-websites in core HTML, JS and CSS. When using Gigo there is no need to learn a custom templating language. 
+websites in core HTML, JS and CSS while benefiting from features missing in HTML 5 such as including and reusing pages. 
+When using Gigo there is no need to learn a custom templating language. 
 Just work with the standards core HTML, JS and CSS and write portable websites.
 
 HTML specification does not offer a way of including pages and Gigo resolves this simply and elegantly.
